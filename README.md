@@ -14,7 +14,7 @@ The goal of the project is to make a Spam Classifier that is capable of classify
       *  Logistic Regression
       *  Decision Trees
       *  Random Forest
-      *  Random Forest
+      *  Support Vector Classifier
    * Fine-tune and combine the best classifiers (Random Forest and Logistic Regression)
    * Evaluate on the test set
 
